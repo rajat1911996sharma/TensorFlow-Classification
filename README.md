@@ -1,5 +1,6 @@
 # TensorFlow-Classification
-## The Data  ### Breast cancer wisconsin (diagnostic)
+## The Data 
+### Breast cancer wisconsin (diagnostic)
 **Data Set Characteristics:**      
 :Number of Instances: 569      
 :Number of Attributes: 30 numeric, predictive attributes and the class     
