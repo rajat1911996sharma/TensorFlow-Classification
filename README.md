@@ -14,7 +14,6 @@
 - concave points (number of concave portions of the contour)       
 - symmetry         
 - fractal dimension ("coastline approximation" 
- 1)          The mean, standard error, and "worst" or largest (mean of the three         largest values) of these features were computed for each image,         resulting in 30 features. 
  
  This is a copy of UCI ML Breast Cancer Wisconsin (Diagnostic) datasets.
  
